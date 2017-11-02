@@ -6,8 +6,7 @@ function setup() {
 function draw() {
   // put drawing code here
   if (mouseIsPressed) {
-    color(0, 100, 200);
-    fill(0);
+    fill(0,200,100);
   } else {
     fill(255);
   }
